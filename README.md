@@ -3,12 +3,6 @@
 ![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
 
 <p align="center">
-  <!-- Database Badges -->
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![pgAdmin](https://img.shields.io/badge/pgAdmin-2F6792?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
-  [![PostgreSQL Version](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-  
-  <!-- SQL & Tools -->
   [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
   [![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square)](https://www.postgresql.org/docs/current/plpgsql.html)
   </p>
