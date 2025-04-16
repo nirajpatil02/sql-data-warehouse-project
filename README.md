@@ -1,4 +1,4 @@
-![Build](https://github.com/nirajpatil02/sql-data-warehouse-project/actions/workflows/main.yml/badge.svg)
+![Build](https://github.com/nirajpatil02/sql-data-warehouse-project/actions/workflows/sql-check.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/sql-data-warehouse-project)
 ![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
 
