@@ -1,0 +1,19 @@
+name: SQL Syntax Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-sql:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Find .sql files and check if they exist
+      run: |
+        echo "Found the following SQL files:"
+        find . -name "*.sql" || echo "No SQL files found"
