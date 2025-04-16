@@ -1,3 +1,8 @@
+![Build](https://github.com/yourusername/yourrepo/actions/workflows/main.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/sql-data-warehouse-project)
+![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
+
+
 # Data Warehouse and Analytics Project
 
 Welcome to **Data Warehouse and Analytics Project** repository!
