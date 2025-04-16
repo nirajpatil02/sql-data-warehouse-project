@@ -2,6 +2,16 @@
 ![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/sql-data-warehouse-project)
 ![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
 
+<p align="center">
+  <!-- Core Technologies -->
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![pgAdmin](https://img.shields.io/badge/pgAdmin-FF9900?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
+  [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+  
+  <!-- Architecture -->
+  [![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion_Bronze_Silver_Gold-00758F?style=for-the-badge)](https://www.databricks.com/glossary/medallion-architecture)
+  [![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Intel_Approach-0071C5?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_warehouse)
+</p>
 
 # Data Warehouse and Analytics Project
 
