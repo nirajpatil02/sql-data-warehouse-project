@@ -3,15 +3,15 @@
 ![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
 
 <p align="center">
-  <!-- Core Technologies -->
+  <!-- Database Badges -->
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![pgAdmin](https://img.shields.io/badge/pgAdmin-FF9900?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
-  [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+  [![pgAdmin](https://img.shields.io/badge/pgAdmin-2F6792?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.pgadmin.org/)
+  [![PostgreSQL Version](https://img.shields.io/badge/PostgreSQL-15+-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
   
-  <!-- Architecture -->
-  [![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion_Bronze_Silver_Gold-00758F?style=for-the-badge)](https://www.databricks.com/glossary/medallion-architecture)
-  [![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Intel_Approach-0071C5?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_warehouse)
-</p>
+  <!-- SQL & Tools -->
+  [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+  [![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square)](https://www.postgresql.org/docs/current/plpgsql.html)
+  </p>
 
 # Data Warehouse and Analytics Project
 
