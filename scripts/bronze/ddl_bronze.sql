@@ -1,6 +1,6 @@
 /*
 =============================================================
-DDL Script: Create Bronze Layer Tables (PostgreSQL Version)
+Create Bronze Layer Tables (PostgreSQL Version)
 =============================================================
 Script Purpose:
     This script creates raw-level "bronze" layer tables in the 'datawarehouse' database
@@ -44,9 +44,9 @@ DROP TABLE IF EXISTS bronze.erp_px_cat_g1v2;
 CREATE TABLE bronze.crm_cust_info (
     cst_id              INT,            -- Unique customer ID
     cst_key             VARCHAR(50),    -- External CRM customer key
-    cast_firstname      VARCHAR(50),    -- First name of customer
+    cst_firstname      VARCHAR(50),    -- First name of customer
     cst_lastname        VARCHAR(50),    -- Last name of customer
-    cst_material_status VARCHAR(50),    -- Marital or material status
+    cst_marital_status VARCHAR(50),    -- Marital or material status
     cst_gndr            VARCHAR(50),    -- Gender
     cst_create_date     DATE            -- Customer creation date in CRM
 );
