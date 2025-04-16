@@ -2,10 +2,10 @@
 ![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/sql-data-warehouse-project)
 ![License](https://img.shields.io/github/license/nirajpatil02/sql-data-warehouse-project)
 
-<p align="center">
+
   [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
   [![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square)](https://www.postgresql.org/docs/current/plpgsql.html)
-  </p>
+
 
 # Data Warehouse and Analytics Project
 
