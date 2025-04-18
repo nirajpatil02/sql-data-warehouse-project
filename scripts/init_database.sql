@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Database and Schemas (PostgreSQL Version)
+Create Database and Schemas
 =============================================================
 Script Purpose:
     This script creates a new PostgreSQL database named 'datawarehouse' after 
