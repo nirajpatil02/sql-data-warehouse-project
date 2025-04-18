@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Silver Layer Tables (PostgreSQL Version)
+Create Silver Layer Tables
 =============================================================
 Script Purpose:
     This script creates transformed and curated "silver" layer tables 
