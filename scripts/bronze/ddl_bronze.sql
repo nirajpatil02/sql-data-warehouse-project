@@ -1,6 +1,6 @@
 /*
 =============================================================
-Create Bronze Layer Tables (PostgreSQL Version)
+Create Bronze Layer Tables
 =============================================================
 Script Purpose:
     This script creates raw-level "bronze" layer tables in the 'datawarehouse' database
